@@ -1,7 +1,7 @@
 version: 0.1
 endpoints:
   - name: "REST API"
-    post: 8000
+    port: 8000
     type: REST
     networkvisibility: Public
     context: /
